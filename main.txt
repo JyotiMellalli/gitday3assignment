@@ -1,0 +1,9 @@
+
+Name:JYOTI
+CT:CT14923
+Place:HUBLI
+Day:Monday
+Blood group:A+
+DOB:03-11-2000
+colour:pink
+Welcome to citiusTech
