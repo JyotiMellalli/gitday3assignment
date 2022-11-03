@@ -1,9 +1,9 @@
 
-Name:Nayana
-CT:CT14923
+Name:kavitaa
+CT:CT14925
 Place:HUBLI
 Day:Monday
-Blood group:A+
+Blood group:B+
 DOB:03-11-2000
 colour:pink
 Welcome to citiusTech
