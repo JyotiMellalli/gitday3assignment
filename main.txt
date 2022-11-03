@@ -2,7 +2,7 @@
 Name:Nayana
 CT:CT14923
 Place:HUBLI
-Day:Monday
+Day:sunday
 Blood group:A+
 DOB:03-11-2000
 colour:pink
